@@ -1,4 +1,5 @@
 <template>
+test
   <img  src="./assets/Barcelona-Logo.png" width="200">
   <h1>{{title}}</h1>
   <canvas id="myChart" width="400" height="400"></canvas><br>
